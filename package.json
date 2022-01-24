@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-dirty-checker",
+  "name": "@doop/dirty-checker",
   "version": "1.0.0",
   "description": "A dirtyChecker service for the Doop framework",
   "repository": {
