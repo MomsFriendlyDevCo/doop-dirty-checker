@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/MomsFriendlyDevCo/doop-service-dirty-checker/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-dirty-checker#readme"
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-dirty-checker#readme",
+  "workspaces": [
+    "../*"
+  ]
 }
